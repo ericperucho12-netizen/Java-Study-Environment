@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_86;
+package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_86;
 
 import javax.swing.*;
 

@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema12_Archivos;
+package Ejercicios_Sin_Resolver.Tema12_Archivos;
 
 import java.io.File;
 

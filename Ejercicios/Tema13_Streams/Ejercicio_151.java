@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema13_Streams;
+package Ejercicios.Tema13_Streams;
 /**
  * ---------------------------------------------------------
  * EJERCICIO 151: INTRODUCCIÓN A LAMBDAS

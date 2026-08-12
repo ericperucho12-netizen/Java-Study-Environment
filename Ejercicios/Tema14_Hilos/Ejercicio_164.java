@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema14_Hilos;
+package Ejercicios.Tema14_Hilos;
 /**
  * ---------------------------------------------------------
  * EJERCICIO 164: DORMIR UN HILO (THREAD.SLEEP)

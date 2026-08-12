@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema12_Archivos;
+package Ejercicios.Tema12_Archivos;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;

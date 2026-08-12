@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema18_Genericos;
+package Ejercicios_Sin_Resolver.Tema18_Genericos;
 
 /**
  * ---------------------------------------------------------

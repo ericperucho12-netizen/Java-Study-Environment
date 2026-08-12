@@ -1,4 +1,4 @@
-﻿package TodoSobreJava.Tema07_Herencia;
+package TodoSobreJava.Tema07_Herencia;
 
 /**
  * ---------------------------------------------------------

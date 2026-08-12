@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema17_Regex;
+package Ejercicios_Sin_Resolver.Tema17_Regex;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

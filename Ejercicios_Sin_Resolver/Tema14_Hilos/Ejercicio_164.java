@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema14_Hilos;
+package Ejercicios_Sin_Resolver.Tema14_Hilos;
 
 /**
  * ---------------------------------------------------------

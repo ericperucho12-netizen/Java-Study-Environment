@@ -1,4 +1,4 @@
-﻿package TodoSobreJava.Tema15_InterfacesGraficas_Ventanas;
+package TodoSobreJava.Tema15_InterfacesGraficas_Ventanas;
 
 /**
  * ---------------------------------------------------------

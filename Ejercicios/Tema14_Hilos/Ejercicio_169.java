@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema14_Hilos;
+package Ejercicios.Tema14_Hilos;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 /**

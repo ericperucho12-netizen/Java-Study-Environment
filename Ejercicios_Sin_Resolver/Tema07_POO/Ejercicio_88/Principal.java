@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_88;
+package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_88;
 
 import java.util.Scanner;
 import static Ejercicios.Tema07_POO.Ejercicio_88.Vehiculo_88.indiceCocheMBarato;

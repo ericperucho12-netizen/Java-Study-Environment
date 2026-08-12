@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_99;
+package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_99;
 
 import java.util.Objects;
 

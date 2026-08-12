@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_97;
+package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_97;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema06_Metodos;
+package Ejercicios_Sin_Resolver.Tema06_Metodos;
 
 import java.util.Scanner;
 

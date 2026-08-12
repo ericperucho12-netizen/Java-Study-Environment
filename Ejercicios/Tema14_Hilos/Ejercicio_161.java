@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema14_Hilos;
+package Ejercicios.Tema14_Hilos;
 /**
  * ---------------------------------------------------------
  * EJERCICIO 161: CREAR UN HILO (EXTENDS THREAD)

@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_89;
+package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_89;
 
 import static Ejercicios.Tema07_POO.Ejercicio_89.Atletas_89.indiceGanador;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-﻿package TodoSobreJava;
+package TodoSobreJava;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

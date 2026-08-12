@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema14_Hilos;
+package Ejercicios.Tema14_Hilos;
 /**
  * ---------------------------------------------------------
  * EJERCICIO 165: SINCRONIZACIÓN BÁSICA (SYNCHRONIZED)

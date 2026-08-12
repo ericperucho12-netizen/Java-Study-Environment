@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema14_Hilos;
+package Ejercicios.Tema14_Hilos;
 /**
  * ---------------------------------------------------------
  * EJERCICIO 166: ESPERAR A QUE TERMINE UN HILO (JOIN)

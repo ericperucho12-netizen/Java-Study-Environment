@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema13_Streams;
+package Ejercicios.Tema13_Streams;
 import java.util.Arrays;
 import java.util.List;
 /**

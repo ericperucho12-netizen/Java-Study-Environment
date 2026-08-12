@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema10_Excepciones;
+package Ejercicios.Tema10_Excepciones;
 /**
  * ---------------------------------------------------------
  * EJERCICIO 127: LEER EL STACK TRACE

@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema01_Basicos;
+package Ejercicios_Sin_Resolver.Tema01_Basicos;
 
 import javax.swing.*;
 import java.util.Scanner;

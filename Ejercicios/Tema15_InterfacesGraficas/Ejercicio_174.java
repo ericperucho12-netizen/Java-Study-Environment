@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema15_InterfacesGraficas;
+package Ejercicios.Tema15_InterfacesGraficas;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 /**

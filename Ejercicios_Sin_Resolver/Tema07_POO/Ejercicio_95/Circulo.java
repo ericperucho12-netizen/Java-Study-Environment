@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_95;
+package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_95;
 
 /**
  * Usamos 'implements' para decir que Circulo firma el contrato de Figura

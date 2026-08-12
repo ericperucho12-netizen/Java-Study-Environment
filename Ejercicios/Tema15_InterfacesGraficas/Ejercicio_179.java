@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema15_InterfacesGraficas;
+package Ejercicios.Tema15_InterfacesGraficas;
 import java.awt.BorderLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;

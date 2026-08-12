@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema04_Arreglos;
+package Ejercicios_Sin_Resolver.Tema04_Arreglos;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema10_Excepciones;
+package Ejercicios.Tema10_Excepciones;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;

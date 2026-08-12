@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema14_Hilos;
+package Ejercicios.Tema14_Hilos;
 import java.util.concurrent.Callable;
 import java.util.concurrent.FutureTask;
 /**

@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_92;
+package Ejercicios_Sin_Resolver.Tema07_POO.Ejercicio_92;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema08_Strings;
+package Ejercicios_Sin_Resolver.Tema08_Strings;
 
 /**
  * ---------------------------------------------------------

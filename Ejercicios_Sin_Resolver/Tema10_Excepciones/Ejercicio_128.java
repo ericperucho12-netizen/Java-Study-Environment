@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema10_Excepciones;
+package Ejercicios_Sin_Resolver.Tema10_Excepciones;
 
 import java.io.File;
 import java.io.FileReader;

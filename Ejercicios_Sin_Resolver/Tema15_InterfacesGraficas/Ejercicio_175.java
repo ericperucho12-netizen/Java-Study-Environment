@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema15_InterfacesGraficas;
+package Ejercicios_Sin_Resolver.Tema15_InterfacesGraficas;
 
 import javax.swing.JFrame;
 import javax.swing.JTextField;

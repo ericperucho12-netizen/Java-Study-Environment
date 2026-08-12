@@ -1,4 +1,4 @@
-﻿package Ejercicios_Sin_Resolver.Tema02_Condicionales;
+package Ejercicios_Sin_Resolver.Tema02_Condicionales;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;

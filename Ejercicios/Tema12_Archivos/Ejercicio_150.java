@@ -1,4 +1,4 @@
-﻿package Ejercicios.Tema12_Archivos;
+package Ejercicios.Tema12_Archivos;
 import java.io.BufferedReader;
 import java.io.FileReader;
 /**
