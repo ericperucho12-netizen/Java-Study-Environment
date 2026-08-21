@@ -1,3 +1,8 @@
+/*
+* Pedir 5 calificaciones de alumnos y decir al final si hay
+* algun reprobado
+*
+* */
 package Ejercicios_Sin_Resolver.Tema03_Ciclos;
 
 import javax.swing.*;

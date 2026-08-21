@@ -1,3 +1,9 @@
+/*
+"Construir un programa que lea un número entero por teclado
+y determine si dicho número es múltiplo de 10. El sistema debe
+mostrar un mensaje confirmando el resultado."
+*/
+
 package Ejercicios_Sin_Resolver.Tema02_Condicionales;
 
 import java.util.Scanner;

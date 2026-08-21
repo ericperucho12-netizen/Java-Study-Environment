@@ -1,3 +1,6 @@
+//Pedir un número entre 0 y 99 999 y decir cuantas cifras tiene
+
+
 package Ejercicios_Sin_Resolver.Tema02_Condicionales;
 
 import java.util.Scanner;

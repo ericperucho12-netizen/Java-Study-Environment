@@ -1,3 +1,5 @@
+
+//Pedir numeros hasta que se introdusca uno negativo, y calcula la media.
 package Ejercicios_Sin_Resolver.Tema03_Ciclos;
 
 import javax.swing.*;

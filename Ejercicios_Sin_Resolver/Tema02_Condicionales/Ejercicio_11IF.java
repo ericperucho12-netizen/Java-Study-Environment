@@ -1,3 +1,7 @@
+/* 
+"Desarrollar un programa que solicite al usuario un carácter
+y determine si este es una letra mayúscula o una letra minúscula."
+*/
 package Ejercicios_Sin_Resolver.Tema02_Condicionales;
 
 import java.util.Scanner;

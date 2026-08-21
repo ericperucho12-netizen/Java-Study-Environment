@@ -1,3 +1,8 @@
+/*
+Pedir numeros hasta que se teclee un 0, mostrar la suma de todos
+los numeros introducidos
+*/
+
 package Ejercicios_Sin_Resolver.Tema03_Ciclos;
 
 import java.util.Scanner;

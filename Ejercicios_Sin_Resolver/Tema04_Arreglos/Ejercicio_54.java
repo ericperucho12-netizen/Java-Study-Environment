@@ -1,3 +1,8 @@
+/*
+*Crear un programa que lea por teclado una tabla de 10 numeros enteros
+*y desplace N posiciones en el arreglo (N es digitado por el usuario)
+*/
+
 package Ejercicios_Sin_Resolver.Tema04_Arreglos;
 
 import java.util.Scanner;

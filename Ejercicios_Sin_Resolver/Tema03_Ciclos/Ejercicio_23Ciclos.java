@@ -1,3 +1,7 @@
+/*
+    Leer un numero y mostrar su cuadrado, repetir el proceso hasta que se
+    introduzca un numero negativo
+*/
 package Ejercicios_Sin_Resolver.Tema03_Ciclos;
 
 import java.util.Scanner;

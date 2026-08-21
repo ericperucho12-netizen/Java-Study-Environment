@@ -1,3 +1,4 @@
+// (a + b)^2 = a^2 + b^2 + 2ab
 package Ejercicios_Sin_Resolver.Tema01_Basicos;
 
 import java.util.Scanner;

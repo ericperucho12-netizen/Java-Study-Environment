@@ -1,3 +1,9 @@
+/*
+*
+*   Pedir 10 sueldos
+*   Mostrar su suma y cuantos hay mayores de $1000
+*
+*/
 package Ejercicios_Sin_Resolver.Tema03_Ciclos;
 
 import java.util.Scanner;

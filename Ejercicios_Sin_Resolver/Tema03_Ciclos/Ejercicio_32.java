@@ -1,3 +1,4 @@
+//pedir 10 numero y escribir la suma total
 package Ejercicios_Sin_Resolver.Tema03_Ciclos;
 
 import java.util.Scanner;

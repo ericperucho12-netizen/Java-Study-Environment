@@ -27,7 +27,7 @@ public class Ejercicio_Fizz_Buzz {
       //Mas corta
       for(int i=1;i<=100;i++){
           String res=(i %15==0)? "FizzBuzz": (i%3==0)?"Fizz":
-                  (i%5==0)?"Buzz": String.valueOf(i);
+                  (i%5==0)?"Buzz":(i%7==0)?"Woof":String.valueOf(i);
           System.out.println(res);
       }
     }

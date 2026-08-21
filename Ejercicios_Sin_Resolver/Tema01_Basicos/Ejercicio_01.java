@@ -1,3 +1,6 @@
+//hacer un programa que calcule e imprima la suma
+// de tres calificaciones
+
 package Ejercicios_Sin_Resolver.Tema01_Basicos;
 
 import javax.swing.*;

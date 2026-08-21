@@ -1,3 +1,8 @@
+/*
+*   Pedir 10 numeros
+*   Mostrar la media de los numeros positivos,
+*   la media de los numero negativos y la cantidad de ceros
+* */
 package Ejercicios_Sin_Resolver.Tema03_Ciclos;
 
 import java.util.Scanner;
