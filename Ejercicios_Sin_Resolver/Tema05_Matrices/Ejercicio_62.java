@@ -1,3 +1,4 @@
+//Crear una matriz de tamaño 3x3, transponerla y mostrarla.
 package Ejercicios_Sin_Resolver.Tema05_Matrices;
 
 import java.util.Scanner;

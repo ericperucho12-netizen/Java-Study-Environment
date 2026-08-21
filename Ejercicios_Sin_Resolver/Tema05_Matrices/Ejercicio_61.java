@@ -1,3 +1,9 @@
+/*
+Crear y cargar dos matrices de tamaño
+3x3, sumarlas y mostrar su resultado.
+*/
+
+
 package Ejercicios_Sin_Resolver.Tema05_Matrices;
 
 import javax.swing.*;

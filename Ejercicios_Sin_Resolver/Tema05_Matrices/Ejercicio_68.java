@@ -1,3 +1,10 @@
+/*
+*****
+****
+***
+**
+*
+*/
 package Ejercicios_Sin_Resolver.Tema05_Matrices;
 
 public class Ejercicio_68 {

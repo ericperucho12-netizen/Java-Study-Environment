@@ -1,3 +1,8 @@
+/*
+* Crear una matriz "marco" de tamaño 5x5: todos sus elementos deben
+* ser 0 salvo los de los bordes que debnen ser 1. Mostrarla
+*
+*/
 package Ejercicios_Sin_Resolver.Tema05_Matrices;
 
 import java.util.Scanner;

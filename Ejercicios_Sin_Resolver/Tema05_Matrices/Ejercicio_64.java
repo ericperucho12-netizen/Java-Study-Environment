@@ -1,3 +1,5 @@
+//Crear una matriz de tamaño n x m, mostrar la suma de cada
+// fila y de cada columna
 package Ejercicios_Sin_Resolver.Tema05_Matrices;
 
 import javax.swing.*;
