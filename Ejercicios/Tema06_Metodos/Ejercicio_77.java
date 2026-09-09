@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * ---------------------------------------------------------
- * EJERCICIO 82: CALCULADORA MODULAR
+ * EJERCICIO 77: CALCULADORA MODULAR
  * ---------------------------------------------------------
  * Conceptos: Separación de responsabilidades.
  * 

@@ -4,6 +4,11 @@ package Ejercicios_Sin_Resolver.Tema03_Ciclos;
 public class Ejercicio_31For {
     public static void main(String[] args) {
         // TODO: Escribe tu código aquí
-        
+
+        for(int i=100;i>=0;i-=7){
+            System.out.println(i);
+        }
+
+
     }
 }

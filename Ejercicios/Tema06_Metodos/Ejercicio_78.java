@@ -2,7 +2,7 @@ package Ejercicios.Tema06_Metodos;
 
 /**
  * ---------------------------------------------------------
- * EJERCICIO 83: PASO DE ARREGLOS A MÉTODOS
+ * EJERCICIO 78: PASO DE ARREGLOS A MÉTODOS
  * ---------------------------------------------------------
  * Conceptos: Parámetros tipo array.
  * 

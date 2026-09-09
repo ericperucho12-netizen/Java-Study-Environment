@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * ---------------------------------------------------------
- * EJERCICIO 85: RECURSIVIDAD (FACTORIAL)
+ * EJERCICIO 80: RECURSIVIDAD (FACTORIAL)
  * ---------------------------------------------------------
  * Conceptos: Un método que se llama a sí mismo.
  * 
