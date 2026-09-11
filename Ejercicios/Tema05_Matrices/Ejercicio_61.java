@@ -14,8 +14,11 @@ public class Ejercicio_61 {
     int matriz2 [][]= {{3,1,6},{1,8,6},{3,2,11}};
         int suma[][] = new int[3][3];
 
+        // Recorremos las filas de las matrices
         for(int i=0;i<matriz.length;i++){
+            // Recorremos las columnas de las matrices
             for(int j=0;j<matriz2.length;j++){
+                // Sumamos los elementos correspondientes de ambas matrices
                 suma[i][j]=matriz[i][j]+matriz2[i][j];
             }
         }

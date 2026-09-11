@@ -32,7 +32,7 @@ public class Ejercicio_59 {
             sumaPrimer += primerTrimestre[i];
 
             System.out.print("Nota 2er Trimestre: ");
-            primerTrimestre[i] = sc.nextFloat();
+            segundoTrimestre[i] = sc.nextFloat();
             sumaSegundo += segundoTrimestre[i];
 
             System.out.print("Nota 3er Trimestre: ");
@@ -51,21 +51,28 @@ public class Ejercicio_59 {
 
         //Busqueda de alumno especifico
         System.out.println("\n --- Promedio individual --- ");
-        System.out.printf("\nIngrese la posicion del alumno a consultar (0-4): ");
-        int posicionAlumno = sc.nextInt();
+        while(true) {
+            System.out.printf("\nIngrese la posicion del alumno a consultar (0-4) o un numero negativo para salir: ");
+            int posicionAlumno = sc.nextInt();
+            
+            // Condicion de salida
+            if (posicionAlumno < 0) {
+                System.out.println("Saliendo de la busqueda...");
+                break;
+            }
 
-        //Validamos que la posicion exista para evitar errores
-        if(posicionAlumno >= 0 && posicionAlumno < 5){
+            //Validamos que la posicion exista para evitar errores
+            if(posicionAlumno >= 0 && posicionAlumno < 5){
 
-            //Calculamos el promedio del alumno sumando sus 3 notas y dividiendo entre 3
-            float sumaAlumno = primerTrimestre[posicionAlumno]+
-                               segundoTrimestre[posicionAlumno]+
-                                tercerTrimestre[posicionAlumno];
-            float promedioAlumno = sumaAlumno/3;
-            System.out.printf("El promedio final del Alumno #"+posicionAlumno+ " es: %.2f\n",promedioAlumno);
-        }else{
-            System.out.println("Error: La posicion del alumno no es valida");
-
+                //Calculamos el promedio del alumno sumando sus 3 notas y dividiendo entre 3
+                float sumaAlumno = primerTrimestre[posicionAlumno]+
+                                   segundoTrimestre[posicionAlumno]+
+                                    tercerTrimestre[posicionAlumno];
+                float promedioAlumno = sumaAlumno/3;
+                System.out.printf("El promedio final del Alumno #"+posicionAlumno+ " es: %.2f\n",promedioAlumno);
+            }else{
+                System.out.println("Error: La posicion del alumno no es valida");
+            }
         }
         sc.close();
 
