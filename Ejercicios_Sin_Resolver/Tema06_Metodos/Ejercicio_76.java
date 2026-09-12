@@ -2,7 +2,7 @@ package Ejercicios_Sin_Resolver.Tema06_Metodos;
 
 /**
  * ---------------------------------------------------------
- * EJERCICIO 81: MÉTODOS CON Y SIN RETORNO (VOID)
+ * EJERCICIO 76: MÉTODOS CON Y SIN RETORNO (VOID)
  * ---------------------------------------------------------
  * Conceptos: Creación de funciones, return vs void.
  * 

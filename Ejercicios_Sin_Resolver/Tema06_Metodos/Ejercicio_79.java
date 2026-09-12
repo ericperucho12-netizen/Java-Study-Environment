@@ -2,7 +2,7 @@ package Ejercicios_Sin_Resolver.Tema06_Metodos;
 
 /**
  * ---------------------------------------------------------
- * EJERCICIO 84: SOBRECARGA DE MÉTODOS (OVERLOADING)
+ * EJERCICIO 79: SOBRECARGA DE MÉTODOS (OVERLOADING)
  * ---------------------------------------------------------
  * Conceptos: Métodos con el mismo nombre pero distintos parámetros.
  * 

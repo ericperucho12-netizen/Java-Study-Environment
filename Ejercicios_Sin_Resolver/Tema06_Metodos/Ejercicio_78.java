@@ -2,7 +2,7 @@ package Ejercicios_Sin_Resolver.Tema06_Metodos;
 
 /**
  * ---------------------------------------------------------
- * EJERCICIO 83: PASO DE ARREGLOS A MÉTODOS
+ * EJERCICIO 78: PASO DE ARREGLOS A MÉTODOS
  * ---------------------------------------------------------
  * Conceptos: Parámetros tipo array.
  * 
@@ -11,6 +11,10 @@ package Ejercicios_Sin_Resolver.Tema06_Metodos;
  * y retorne cuál es el número mayor de ese arreglo.
  */
 public class Ejercicio_78 {
+
+
+
+
     public static void main(String[] args) {
         // TODO: Escribe tu código aquí
         
