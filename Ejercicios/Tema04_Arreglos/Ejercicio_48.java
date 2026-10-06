@@ -39,7 +39,7 @@ public class Ejercicio_48 {
             System.out.println("Posición "+i+": "+numeros[i]);
             // Imprime el de "atrás" (9, 8, 7, 6, 5)
             // Usamos matemáticas: 9 menos 'i' nos da el inverso exacto.
-            System.out.println("Posición "+(9-1)+ ": "+numeros[9-1]);
+            System.out.println("Posición "+(9-i)+ ": "+numeros[9-i]);
         }
         sc.close();
     }
